@@ -1,0 +1,10 @@
+C:\Users\user\Documents\480\PRAC13_2\bin\Debug\PRAC13_2.exe.config
+C:\Users\user\Documents\480\PRAC13_2\bin\Debug\PRAC13_2.exe
+C:\Users\user\Documents\480\PRAC13_2\bin\Debug\PRAC13_2.pdb
+C:\Users\user\Documents\480\PRAC13_2\obj\Debug\PRAC13_2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\480\PRAC13_2\obj\Debug\PRAC13_2.Form1.resources
+C:\Users\user\Documents\480\PRAC13_2\obj\Debug\PRAC13_2.Properties.Resources.resources
+C:\Users\user\Documents\480\PRAC13_2\obj\Debug\PRAC13_2.csproj.GenerateResource.cache
+C:\Users\user\Documents\480\PRAC13_2\obj\Debug\PRAC13_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\480\PRAC13_2\obj\Debug\PRAC13_2.exe
+C:\Users\user\Documents\480\PRAC13_2\obj\Debug\PRAC13_2.pdb
